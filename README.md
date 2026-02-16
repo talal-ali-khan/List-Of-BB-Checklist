@@ -2,6 +2,9 @@
 A list of Bug Bounty Checklists
 
 
-1. HackTricks Web Section (https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html)
+1. HackTricks Web Section
+  
+   - https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html
+   - https://github.com/HackTricks-wiki/hacktricks/tree/master/src/pentesting-web 
 
-   In this web section there are multiple web vulnerablilities with POCs as well
+   In this web section there are multiple web vulnerablilities with POCs as well. The web section of HackTricks is uploaded here as well but after some time check the latest one as well as the original repo is being updated as well
