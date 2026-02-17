@@ -8,3 +8,8 @@ A list of Bug Bounty Checklists
    - https://github.com/HackTricks-wiki/hacktricks/tree/master/src/pentesting-web 
 
    In this web section there are multiple web vulnerablilities with POCs as well. The web section of HackTricks is uploaded here as well but after some time check the latest one as well as the original repo is being updated as well
+
+
+2. KathanP19 Origina Repo Link
+
+   - https://github.com/KathanP19/HowToHunt
