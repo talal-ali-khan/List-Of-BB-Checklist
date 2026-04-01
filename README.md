@@ -20,3 +20,9 @@ A list of Bug Bounty Checklists
 3. Galaxy Bug Bounty Checklist Original Link
 
    - https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist
+  
+4. PortSwigger Academy Bugs
+
+5. BugOps by Alfaz Hossain list
+
+   - https://alfazhossain.github.io/BugOps/
