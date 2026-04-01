@@ -6,9 +6,18 @@ A list of Bug Bounty Checklists
 
    - https://github.com/KathanP19/HowToHunt
 
+2. Galaxy Bug Bounty Checklist Original Link
 
+   - https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist
 
-2. HackTricks Web Section
+  
+3. PortSwigger Academy Bugs
+
+4. BugOps by Alfaz Hossain list
+
+   - https://alfazhossain.github.io/BugOps/
+
+5. HackTricks Web Section
   
    - https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html
    - https://github.com/HackTricks-wiki/hacktricks/tree/master/src/pentesting-web 
@@ -17,12 +26,5 @@ A list of Bug Bounty Checklists
 
 
 
-3. Galaxy Bug Bounty Checklist Original Link
 
-   - https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist
-  
-4. PortSwigger Academy Bugs
 
-5. BugOps by Alfaz Hossain list
-
-   - https://alfazhossain.github.io/BugOps/
