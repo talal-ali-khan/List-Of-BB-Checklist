@@ -1,9 +1,16 @@
-# List-of-Checklists-BugBounty
-A list of Bug Bounty Checklists
+
+A list of Bug Bounty Tips and Checklists
 
 ## Important Tip
-When testing a target check its category and read similar POCs to get creative ideas. For Example: If testing an E-Commerce store search "POC Bug Bounty on E-Commerce store" to get similar POCs and see those vulnerabilities to get more ideas for testing. Similarly ask chatgpt of different creative tests based on the functionality 
+When testing a target check its category and read similar POCs to get creative ideas.
 
+For Example: If testing an E-Commerce store search "POC Bug Bounty on E-Commerce store" to get similar POCs and see those vulnerabilities to get more ideas for testing. 
+
+You can also do via functionality for example search "Bug Bounty POC on Registration Page" if testing a registration page
+
+Similarly ask chatgpt of different creative tests based on the functionality 
+
+## Checklists
 
 1. KathanP19 Original Repo Link
 
